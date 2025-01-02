@@ -37,7 +37,7 @@ Stellen Sie sicher, dass die folgenden Komponenten auf Ihrem System installiert 
 
 2. **Skript starten:**
    ```bash
-   python script_name.py
+   python main.py
    ```
 
 3. **Funktionsweise:**
